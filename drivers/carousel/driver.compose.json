@@ -1,0 +1,19 @@
+{
+  "name": {
+    "en": "Carousel"
+  },
+  "class": "other",
+  "capabilities": [
+    "speaker_next",
+    "speaker_prev"
+  ],
+  "platforms": [
+    "local"
+  ],
+  "connectivity": [],
+  "images": {
+    "small": "{{driverAssetsPath}}/images/small.png",
+    "large": "{{driverAssetsPath}}/images/large.png",
+    "xlarge": "{{driverAssetsPath}}/images/xlarge.png"
+  }
+}
